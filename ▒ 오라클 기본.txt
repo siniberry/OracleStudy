@@ -1,0 +1,8 @@
+변경(수정)	구조적 - ALTER
+		데이터 - UPDATE
+
+제거(삭제)	구조적 - DROP
+		데이터 - DELETE
+
+생성(입력)	구조적 - CREATE
+		데이터 - INSERT
